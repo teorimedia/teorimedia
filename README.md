@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32214322/README.md)
+
 <div align="center">
 
 # 👋 Teori Media
